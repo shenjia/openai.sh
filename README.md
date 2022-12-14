@@ -2,6 +2,8 @@
 
 A shell interface for OpenAI
 
+![screenshot](https://github.com/shenjia/openai.sh/blob/main/screenshot.png?raw=true)
+
 ## Deploy
 1. Download `ai.sh` and add it to your `.bashrc` or `.zshrc`.
 2. Install `jq` package:

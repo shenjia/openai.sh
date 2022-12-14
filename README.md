@@ -6,7 +6,8 @@ A shell interface for OpenAI
 
 ## Deploy
 1. Download `ai.sh` and add it to your `.bashrc` or `.zshrc`.
-2. Install `jq` package:
+2. Edit `ai.sh` and replace `XXXXXXXX` with your OpenAI API Key.
+3. Install `jq` package:
 ```shell
 apt install jq
 yum install jq

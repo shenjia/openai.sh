@@ -1,4 +1,4 @@
-# ai.sh
+# openai.sh
 
 A shell interface for OpenAI
 
